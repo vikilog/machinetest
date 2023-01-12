@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043911493316",
+    "project_id": "machinetest-a885e",
+    "storage_bucket": "machinetest-a885e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043911493316:android:67cf9fce0c48134c07ab91",
+        "android_client_info": {
+          "package_name": "com.example.machinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043911493316-s3gigiog7qnknglevvrvj4v72sbptq5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GGaq1tPMhYapTL7GA-n_vt13XI5UbnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043911493316-s3gigiog7qnknglevvrvj4v72sbptq5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
